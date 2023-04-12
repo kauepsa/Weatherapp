@@ -9,7 +9,7 @@ def index(request):
         city = request.POST['city'].replace(' ','%20')
         city2 = unicodedata.normalize("NFD", city).encode("ascii", "ignore").decode("utf-8")
         source = urllib.request.urlopen(
-            'http://api.openweathermap.org/data/2.5/weather?q=' + city2 + 
+            'sua-chave-da-api-openweathermap' + city2 + 
             '&units=metric&lang=PT-BR&appid=3ca183ea5f70bb99829c4d7bfa4e545a'
             ).read()
         list_of_data = json.loads(source)
