@@ -36,6 +36,3 @@ O projeto utiliza a API da OpenWeatherMap para buscar as informações meteorol�
 
 ## Contribuição
 Contribuições para o projeto são bem-vindas! Se você encontrar um bug ou tiver uma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar uma pull request.
-
-## Licença
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
