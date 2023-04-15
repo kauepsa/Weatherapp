@@ -1,6 +1,11 @@
 # Projeto Django de Previsão do Tempo
 Este é um projeto Django que permite ao usuário pesquisar por cidades e receber informações meteorológicas atualizadas. O projeto utiliza uma API de terceiros para buscar informações meteorológicas de diferentes cidades ao redor do mundo.
 
+![image](https://user-images.githubusercontent.com/93888091/232176327-00df2305-e8cf-471e-94ba-48beeb33dc77.png)
+![image](https://user-images.githubusercontent.com/93888091/232176333-2ff098ad-b5d8-4cb0-ac48-86ec033dabdb.png)
+
+
+
 ## Instalação
 
 1- Clone o repositório para sua máquina local usando o comando:
